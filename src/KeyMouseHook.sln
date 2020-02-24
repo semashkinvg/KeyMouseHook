@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2026
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyMouseHook", "KeyMouseHook\KeyMouseHook.csproj", "{F872EBA8-CFC4-4ABD-8C45-7B5F091E794A}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleExample", "Examples\ConsoleExample\ConsoleExample.csproj", "{8C561730-2800-4C20-BBC4-D5B7F3631C37}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{4CB8AA4E-1011-4B4F-9F17-E6FC1207B5EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyMouseHookCore", "KeyMouseHookCore\KeyMouseHookCore.csproj", "{378EEF69-4E2E-4198-B59C-18018D65D7CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{8C561730-2800-4C20-BBC4-D5B7F3631C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C561730-2800-4C20-BBC4-D5B7F3631C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C561730-2800-4C20-BBC4-D5B7F3631C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378EEF69-4E2E-4198-B59C-18018D65D7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378EEF69-4E2E-4198-B59C-18018D65D7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378EEF69-4E2E-4198-B59C-18018D65D7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378EEF69-4E2E-4198-B59C-18018D65D7CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
